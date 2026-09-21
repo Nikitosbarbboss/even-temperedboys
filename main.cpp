@@ -1,7 +1,6 @@
 #include <iostream>
 
-int main() {
-    std::cout << "Hello world!";
-
+void func() {
+    std::cout << "Оно есть " << std::endl;
     return 0;
 }
